@@ -10,3 +10,4 @@ fn main() {
     println!("Length is {}", fullname.trim().len() );
 
 }
+    

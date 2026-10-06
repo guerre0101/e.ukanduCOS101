@@ -10,5 +10,5 @@ fn main() {
     let k7 = format!("{} {} {} {} {} {}", k1, k2, k3, k4, k5, k6);
     
     // print output
-    println!("\n {}", k7 );
+    println!("\n {}", k7 ); 
 }
